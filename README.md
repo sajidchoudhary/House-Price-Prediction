@@ -10,7 +10,6 @@ This is regression based house price prediction problem in which having 79 expla
 Those don't have real world experience in Data Science field, it's very good opportunity to start a work with this type of project, it having lots of Categorical feature, Missing values, Abnormal Data Distribution, giving very good understanding of Exploratory Data Analysis.
 
 ### Goal
-Traing Data having 1460 rows and 79 variable from this try get which variables are imapcting the selling price basically apply EDA Techniques and apply differenet different techniques to handle categorical features, some features are belongs to ordinal some are belongs to nominal, dataset having lots of Missing values and some belongs to Missing completely at Random, Missing not at Random, Missing at Random, make distribution as Normally Distributed by use Transformation Techniques than do Feature Selection in the last make a model using trainig data.
-
+Traing Data having 1460 rows and 79 variable from this try get which variables are imapcting the selling price basically apply EDA Techniques and apply differenet different techniques to handle categorical features, some features are belongs to ordinal some are belongs to nominal, dataset having lots of Missing values and some belongs to Missing completely at Random, Missing not at Random, Missing at Random, make distribution as Normally Distributed by use Transformation Techniques than do Feature Selection in the last train a model using all Machine Leaning algorithm and choose one which will give best accuracy.
 
 
