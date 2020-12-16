@@ -3,6 +3,7 @@
 ## Content
 ### Overview
 This is regression based house price prediction problem in which having 79 explanatory variables describing almost every aspect of residential homes, applied EDA Techniques, handled Missing values and categorical values than trained Machine Learning model with almost every Machine Leaning algorithm and tried to predicted the right price of House which helps to lots of customers to buy their dream house.
+
 ![house 2](https://user-images.githubusercontent.com/66259814/102322739-8a74db80-3fa5-11eb-9c06-5bc912d81c96.jpg)
 
 ### Motivation
