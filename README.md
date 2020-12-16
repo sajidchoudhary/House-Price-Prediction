@@ -8,6 +8,6 @@ trained Machine Learning model with almost every Machine Leaning algorithm and t
 ### Motivation
 Those don't have real world experience in Data Science field, it's very good opportunity to start a work with this type of project, it having lots of Categorical feature, Missing values, Abnormal Data Distribution, giving very good understanding of Exploratory Data Analysis.
 
-### Goal
+### Goal.
 
 
