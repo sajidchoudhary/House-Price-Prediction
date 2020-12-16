@@ -12,8 +12,8 @@ Those don't have real world experience in Data Science field, it's very good opp
 ### Goal
 1- Exploratory Data Analysis(EDA)
 2- Handle Missing Values
-3- Handle Categorical Values
-4- Apply Transformation Technique's to make Norammly Distributed
+3- Handle Categorical features
+4- Apply Transformation Technique's to make Normally Distributed
 5- Feature Selection
 6- Feature Scaling
 7- Model Selection
