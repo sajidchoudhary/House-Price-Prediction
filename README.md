@@ -6,10 +6,10 @@ Buying a home is dream come true for many this is regression based house price p
 
 ![house 2](https://user-images.githubusercontent.com/66259814/102322739-8a74db80-3fa5-11eb-9c06-5bc912d81c96.jpg)
 
-### Motivation
+### Motivation:
 Those don't have real world experience in Data Science field, it's very good opportunity to start a work with this type of project, it having lots of Categorical feature, Missing values, Abnormal Data Distribution, giving very good understanding of Exploratory Data Analysis and dataset gives the feel of real world problem.
 
-### Goal
+### Goal:
 1- Exploratory Data Analysis(EDA)
 2- Handle Missing Values
 3- Handle Categorical features
