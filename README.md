@@ -2,7 +2,7 @@
 
 ## Content
 ### Overview:
-Buying a home is dream come true for many this is regression based house price prediction problem in which having 79 explanatory variables describing almost every aspect of residential homes from Number of beds, bathrooms, garage to types of material used every thing is consider in this Data. trained Machine Learning model with almost every Machine Leaning algorithm and tried to predicted the right price of House which helps to lots of customers to buy their dream house.
+Buying a home is dream come true for many this is a regression-based house price prediction problem in which having 79 explanatory variables describing almost every aspect of residential homes from the Number of beds, bathrooms, garage to the types of material used every thing is to consider in this Data. trained Machine Learning model with almost every Machine Leaning algorithm and tried to predict the right price of House which helps lots of customers to buy their dream house.
 
 ![house 2](https://user-images.githubusercontent.com/66259814/102322739-8a74db80-3fa5-11eb-9c06-5bc912d81c96.jpg)
 
